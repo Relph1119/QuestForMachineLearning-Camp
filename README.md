@@ -2,7 +2,8 @@
 
 ## 课程资料
 - 《百面机器学习：算法工程师带你去面试》(链接： https://share.weiyun.com/5k9AYXR 密码：swqwd9)
-- 优秀github资源：  
+- [LeetCode中文官网](https://leetcode-cn.com)
+- 优秀资源：  
 1. [百面机器学习｜学习笔记](https://www.jianshu.com/c/90223df0f45c)  
 - 本训练营的学习安排与课程任务：详见文件夹Books中的《百面机器学习训练营作业》doc文档
 
